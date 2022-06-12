@@ -2,6 +2,15 @@
 
 ## Overview of the Analysis
 
+Dana is a data journalist who is at a ponit in her career where she has the freedom to choose the topics she wants to write about. When she is given the opportunity to write about her hometownm, McMinnville Oregon, she jumps at the opportunity for a couple of reasons. McMinnville is famous for its sightings and even has a annual gathering of UFO enthusiasts. 
+
+Dana will be using a javascript file filled with UFO sightings. Dana wants a simple html website that will contain her article on UFO's. Along with her article on the website, Dana wants to include a filterable table of all the sightings in the javascript filled to support her findings.
+
+
+
+<img width="789" alt="Screenshot (131)" src="https://user-images.githubusercontent.com/102890151/173258645-dd538f65-589f-4a2a-ba85-afae11cd5be7.png">
+The finished website (above)
+
 ## Results: There is a description of how to perform a search, with images. 
 
 UFO sightings can be searched in five ways. Those Five ways are:
