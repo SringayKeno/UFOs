@@ -2,9 +2,37 @@
 
 ## Overview of the analysis
 
-## Results:
+## Results: There is a description of how to perform a search, with images. 
 
-There is a description of how to perform a search, with images. (4 pt)
+UFO sightings can be searched in five ways. Those Five ways are:
+
+#### By Date
+
+<img width="552" alt="date" src="https://user-images.githubusercontent.com/102890151/173258147-e7a29fa2-0bf5-4d6b-adbf-1582295b633b.png">
+
+#### By City
+
+<img width="555" alt="city" src="https://user-images.githubusercontent.com/102890151/173258140-f98fc0eb-7e8b-4178-8287-b249a1da8374.png">
+
+#### By State
+
+<img width="558" alt="Screenshot (121)" src="https://user-images.githubusercontent.com/102890151/173258117-8dbd429e-aa13-4184-b379-a090cab26d28.png">
+
+#### By Country
+
+<img width="563" alt="Screenshot (124)" src="https://user-images.githubusercontent.com/102890151/173257969-308bbd5b-0aef-4d53-a71d-2e37847c8c25.png">
+
+#### By Shape of sighting
+
+<img width="570" alt="tri" src="https://user-images.githubusercontent.com/102890151/173257677-29778c16-fc6d-46b4-a818-6e299c7aec85.png">
+
+
+
+
+
+
+
+
 
 ## Summary:
 
@@ -13,7 +41,7 @@ One drawback of the website that is almost immediately apparent is the the site 
 
 Image on left with 'CA' in 'Enter State' field shows no results, while image on right with 'ca' input in same field yielded all results for California.
 
-<img width="363" alt="Screenshot (108)" src="https://user-images.githubusercontent.com/102890151/173256084-a696643d-a4ac-4068-ba3c-74a2a8f67a10.png"> <img width="385" alt="Screenshot (107)" src="https://user-images.githubusercontent.com/102890151/173256082-17340f15-39ed-4da5-aee7-ade111fde38d.png">
+<img width="463" alt="Screenshot (108)" src="https://user-images.githubusercontent.com/102890151/173256084-a696643d-a4ac-4068-ba3c-74a2a8f67a10.png"> <img width="495" alt="Screenshot (107)" src="https://user-images.githubusercontent.com/102890151/173256082-17340f15-39ed-4da5-aee7-ade111fde38d.png">
 
 
 ### Two additional recommendations for further development
