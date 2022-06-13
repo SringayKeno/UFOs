@@ -6,10 +6,10 @@ Dana is a data journalist who is at a point in her career where she has the free
 
 Dana wants a simple html website that will contain her article on UFO's. Along with her article on the website, Dana wants to include a filterable table of all the sightings that she has access to in a javascript fill. The filterable findings will be used to support her article on the same website.
 
-<img width="789" alt="Screenshot (131)" src="https://user-images.githubusercontent.com/102890151/173258645-dd538f65-589f-4a2a-ba85-afae11cd5be7.png">
-The finished website (above)
 
-Sadly, there were no sightings in the javascript file for Dan's hoetown of McMinnville Oregon. (below)
+<img width="789" alt="Screenshot (131)" src="https://user-images.githubusercontent.com/102890151/173258645-dd538f65-589f-4a2a-ba85-afae11cd5be7.png">
+
+The finished website (above). Sadly, there were no sightings in the javascript file for Dana's hometown of McMinnville Oregon.(below)
 
 <img width="584" alt="Screenshot (132)" src="https://user-images.githubusercontent.com/102890151/173259217-f260dc54-81d4-40ef-b8ec-e73514afd40c.png">
 
