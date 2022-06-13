@@ -2,14 +2,17 @@
 
 ## Overview of the Analysis
 
-Dana is a data journalist who is at a ponit in her career where she has the freedom to choose the topics she wants to write about. When she is given the opportunity to write about her hometownm, McMinnville Oregon, she jumps at the opportunity for a couple of reasons. McMinnville is famous for its sightings and even has a annual gathering of UFO enthusiasts. 
+Dana is a data journalist who is at a point in her career where she has the freedom to choose the topics she wants to write about. When she is given the opportunity to write about her hometownm, McMinnville Oregon, she jumps at the opportunity for a couple of reasons. First she gets to revisit her home town, and secondly it was the topic, Unidentified Flying Objects or (UFO)s. McMinnville is famous for its its UFO sightings and even has a annual gathering for UFO enthusiasts. 
 
-Dana will be using a javascript file filled with UFO sightings. Dana wants a simple html website that will contain her article on UFO's. Along with her article on the website, Dana wants to include a filterable table of all the sightings in the javascript filled to support her findings.
-
-
+Dana wants a simple html website that will contain her article on UFO's. Along with her article on the website, Dana wants to include a filterable table of all the sightings that she has access to in a javascript fill. The filterable findings will be used to support her article on the same website.
 
 <img width="789" alt="Screenshot (131)" src="https://user-images.githubusercontent.com/102890151/173258645-dd538f65-589f-4a2a-ba85-afae11cd5be7.png">
 The finished website (above)
+
+Sadly, there were no sightings in the javascript file for Dan's hoetown of McMinnville Oregon. (below)
+
+<img width="584" alt="Screenshot (132)" src="https://user-images.githubusercontent.com/102890151/173259217-f260dc54-81d4-40ef-b8ec-e73514afd40c.png">
+
 
 ## Results: There is a description of how to perform a search, with images. 
 
@@ -34,13 +37,6 @@ UFO sightings can be searched in five ways. Those Five ways are:
 #### By Shape of sighting
 
 <img width="570" alt="tri" src="https://user-images.githubusercontent.com/102890151/173257677-29778c16-fc6d-46b4-a818-6e299c7aec85.png">
-
-
-
-
-
-
-
 
 
 ## Summary:
