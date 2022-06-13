@@ -34,7 +34,7 @@ UFO sightings can be searched in five ways. Those Five ways are:
 
 <img width="563" alt="Screenshot (124)" src="https://user-images.githubusercontent.com/102890151/173257969-308bbd5b-0aef-4d53-a71d-2e37847c8c25.png">
 
-#### By Shape of sighting
+#### By Shape of Sighting
 
 <img width="570" alt="tri" src="https://user-images.githubusercontent.com/102890151/173257677-29778c16-fc6d-46b4-a818-6e299c7aec85.png">
 
