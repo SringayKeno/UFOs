@@ -16,7 +16,7 @@ The finished website (above). Sadly, there were no sightings in the javascript f
 
 ## Results: There is a description of how to perform a search, with images. 
 
-With user input the event listener detects changes to each of the filters (filters listed below). THe function then saves the element, vale and id of the filter and loops through the data and keeps any data that matches the filter values for the results of the search.
+With user input the event listener detects changes to each of the filters (filters listed below). The function then saves the element, value and id of the filter and loops through the data and keeps any data that matches the filter values for the results of the search.
 
 UFO sightings can be searched in five ways. Those Five ways are:
 
